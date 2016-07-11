@@ -3,7 +3,7 @@ all: node_modules/ bower_components/ test
 node_modules/:
 	npm install
 
-bower_components/:
+bower_components/: node_modules/
 	npm run bower:install
 
 test:
