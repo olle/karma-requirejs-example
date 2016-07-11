@@ -1,6 +1,6 @@
 requirejs.config({
     paths: {
-        'jquery': '../lib/jquery',
+        'jquery': '../bower_components/jquery/dist/jquery',
         'underscore': '../lib/underscore'
     },
 

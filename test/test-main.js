@@ -10,7 +10,7 @@ requirejs.config({
     baseUrl: '/base/src',
 
     paths: {
-        'jquery': '../lib/jquery',
+        'jquery': '../bower_components/jquery/dist/jquery',
         'underscore': '../lib/underscore',
     },
 
@@ -26,4 +26,3 @@ requirejs.config({
     // start test run, once Require.js is done
     callback: window.__karma__.start
 });
-

@@ -6,6 +6,7 @@
     "bower": "^1.7.9"
   },
   "devDependencies": {
+    "bower": "^1.7.9",
     "jasmine": "^2.4.1",
     "karma": "^1.1.1",
     "karma-chrome-launcher": "^1.0.1",
@@ -15,6 +16,8 @@
     "requirejs": "^2.2.0"
   },
   "scripts": {
-    "test": "karma start"
+    "test": "karma start",
+    "bower:install": "bower install",
+    "postinstall": "npm run bower:install"
   }
 }
