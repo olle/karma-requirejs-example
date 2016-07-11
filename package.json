@@ -9,7 +9,6 @@
     "bower": "^1.7.9",
     "jasmine": "^2.4.1",
     "karma": "^1.1.1",
-    "karma-chrome-launcher": "^1.0.1",
     "karma-jasmine": "^1.0.2",
     "karma-phantomjs-launcher": "^1.0.1",
     "karma-requirejs": "^1.0.0",
