@@ -2,9 +2,7 @@
   "name": "karma-requirejs-example",
   "version": "0.0.0",
   "main": "karma.conf.js",
-  "dependencies": {
-    "bower": "^1.7.9"
-  },
+  "dependencies": {},
   "devDependencies": {
     "bower": "^1.7.9",
     "jasmine": "^2.4.1",
