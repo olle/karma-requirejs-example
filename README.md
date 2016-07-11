@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/olle/karma-requirejs-example.svg?branch=master)](https://travis-ci.org/olle/karma-requirejs-example)
+
 Karma/RequireJS Setup Example
 =============================
 
