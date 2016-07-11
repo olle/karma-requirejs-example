@@ -1,0 +1,20 @@
+{
+  "name": "karma-requirejs-example",
+  "version": "0.0.0",
+  "main": "karma.conf.js",
+  "dependencies": {
+    "bower": "^1.7.9"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "karma": "^1.1.1",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "karma-requirejs": "^1.0.0",
+    "requirejs": "^2.2.0"
+  },
+  "scripts": {
+    "test": "karma start"
+  }
+}
